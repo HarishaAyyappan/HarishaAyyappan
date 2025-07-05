@@ -41,7 +41,7 @@ _A repository of my Kubernetes YAML files and mini deployments._
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/harisha-ayyappan-12a122291)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harisha-ayyappan/) 
 📧 **Email:** [harishaayyappan2005@gmail.com](mailto:harishaayyappan2005@gmail.com)
 
 <p align="center">
